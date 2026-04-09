@@ -21,3 +21,5 @@ public/**/*.m4v
 node_modules/
 .next/
 .DS_Store
+tsconfig.tsbuildinfo
+config.bat
